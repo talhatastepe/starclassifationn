@@ -28,8 +28,7 @@ Kullanılan veri seti 240 yıldız ve 6 özellikten oluşmaktadır:
 
 *Modeller, yıldızların fiziksel kurallara (H-R Diyagramı) sıkı sıkıya bağlı olması nedeniyle yüksek başarı göstermiştir.*
 
-##  Görseller
-*(Buraya projedeki H-R diyagramı grafiğinin veya 3D grafiğin ekran görüntüsünü ekleyebilirsin)*
+
 
 ##  Nasıl Çalıştırılır?
 1. Repoyu klonlayın.
